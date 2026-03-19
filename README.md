@@ -109,7 +109,8 @@ Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones
   </tr>
 </table>
 
-<img src="https://i.imgur.com/NnWf7Fm.png" alt="line break" width="100%" height="3px">
+
+
 
 ## 🎗 Licencia
 
