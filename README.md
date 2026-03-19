@@ -103,9 +103,6 @@ Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://discord.gg/fRPPWTJyW">
-
-      </a>
-    </td>
   </tr>
 </table>
 
