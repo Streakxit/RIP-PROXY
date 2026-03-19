@@ -1,7 +1,7 @@
 <div id="top">
 
 <p align="center">
-  <img alt="RIP PROXY Logo" src="https://i.imgur.com/QRlCrO3.png" width="60%">
+  
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://discord.gg/fRPPWTJyW">
-        <img src="https://i.imgur.com/25Qrvbh.png" alt="Tizi" style="width: 50px; height: 50px;">
+         alt="Tizi" style="width: 50px; height: 50px;">
       </a>
     </td>
   </tr>
