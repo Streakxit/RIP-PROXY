@@ -1,10 +1,6 @@
 <div id="top">
 
 <p align="center">
-  
-</p>
-
-<p align="center">
   <em>Pensado y desarrollado en beneficio de la comunidad competitiva de Free Fire, por TIZI.XIT.</em>
 </p>
 
@@ -103,12 +99,16 @@ Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://discord.gg/fRPPWTJyW">
+        <b>Tizi</b>
+      </a>
+    </td>
   </tr>
 </table>
 
-
-
+<img src="https://i.imgur.com/NnWf7Fm.png" alt="line break" width="100%" height="3px">
 
 ## 🎗 Licencia
 
 Copyright RIP PROXY © 2026-2030.
+
+<img src="https://i.imgur.com/NnWf7Fm.png" alt="line break" width="100%" height="3px">
