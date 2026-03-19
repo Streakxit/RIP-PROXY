@@ -103,7 +103,7 @@ Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones
   <tr>
     <td style="text-align: center; margin-right: 20px;">
       <a href="https://discord.gg/fRPPWTJyW">
-         alt="Tizi" style="width: 50px; height: 50px;">
+
       </a>
     </td>
   </tr>
