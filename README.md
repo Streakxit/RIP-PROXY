@@ -91,10 +91,6 @@ Tocá el script para correrlo. El scanner te va a preguntar si querés incluir e
 
 Un enorme agradecimiento a los miembros de abajo por su trabajo y contribuciones:
 
-<div style="text-align:; font-weight: bold; margin-bottom: 10px;">
-  ㅤTiziㅤ
-</div>
-
 <table>
   <tr>
     <td style="text-align: center; margin-right: 20px;">
