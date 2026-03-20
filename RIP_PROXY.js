@@ -119,6 +119,11 @@ const TLD_SOSPECHOSOS = [
   ".tk",".monster",".fun",".rest",".bar",".lol",
 ]
 
+const SUFIJOS_CONFIANZA = ["apple.com","icloud.com","google.com","meli.com","mercadopago.com","instagram.com","facebook.com"]
+if (SUFIJOS_CONFIANZA.some(s => domLow.endsWith("." + s) || domLow === s)) {
+  return { nivel: null, motivos: [] }
+}
+
 const PALABRAS_SOSPECHOSAS = [
   "proxy","cheat","hack","bypass","mitm","inject","spoof","crack",
   "exploit","payload","tunnel","vpn","socks","relay","forward","gate",
